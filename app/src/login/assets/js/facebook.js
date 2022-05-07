@@ -1,0 +1,1 @@
+function whatsapp_fb(v,callback){fbq('track', 'Lead',{});callback()}function whatsapp_direct(){location.href="https://api.whatsapp.com/send/?phone=6283159002335&text=Hai,%20Saya%20ingin%20bertanya...";}
